@@ -1,0 +1,86 @@
+# .NET Core
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.log
+*.csproj.user
+*.cache
+*.config
+*.csproj.FileListAbsolute.txt
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+*.tlog
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+
+# Dependency directories
+packages/
+node_modules/
+wwwroot/lib/
+
+# Docker files
+docker-compose.yml
+docker-compose.override.yml
+Dockerfile
+
+# JetBrains Rider
+.idea/
+
+# Files built by Visual Studio Code
+.vscode/
+
+# Backup files
+*.bak
+
+# NPM Files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+lerna-debug.log
+
+# Web files
+*.css
+*.scss
+*.sass
+*.less
+*.html
+*.js
+*.ts
+*.jsx
+*.tsx
+*.vue
+
+# Misc
+*.swp
+*.class
+*.pyc
+*.pyo
+*.pyd
